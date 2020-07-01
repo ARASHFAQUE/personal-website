@@ -1,0 +1,89 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+h2{
+    font-weight: 700;
+    color:hotpink;
+    font-size: 45px;
+}
+p{
+    color: dimgray;
+}
+#para{
+    font-size: 12px;
+}
+#para-color{
+    color: white;
+}
+#header-color{
+    color: white;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg , #eb60a5, hotpink);
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.same-name{
+    width: 40%;
+    padding-left: 2%;
+    margin-left: 5%;
+    float: left;
+}
+.same-name img{
+    width: 100%;
+}
+#top{
+    padding-top: 170px;
+}
+
+#middle{
+    padding-top: 180px;
+}
+
+.allignment{
+    text-align: center;
+}
+.work{
+    width: 27%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 2%;
+}
+.work img{
+    width: 100%;
+}
+.myself{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 630px;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 630px;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 500px;
+}
+.last-part{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 400px;
+}
+.link{
+    background-image: linear-gradient(45deg,#eb68a9 ,#d31f79);
+    height: 100px;
+    border-radius: 5px;
+    margin: 20px 510px;
+    padding: 10px 20px;
+}
